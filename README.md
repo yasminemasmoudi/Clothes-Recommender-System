@@ -7,3 +7,5 @@ It is based on the ResNet50 neural network architecture and uses transfer learni
 The features are then used to build a Nearest Neighbors model that helps in finding the most similar items.
 
 This project has practical applications in the fashion industry, online shopping, and e-commerce.
+
+[Dataset link](https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset)
